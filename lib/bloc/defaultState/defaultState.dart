@@ -1,8 +1,8 @@
 import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
 
-class DefaultState extends Equatable {
-  DefaultState([List props = const []]) : super(props);
+class DefaultState  {
+  DefaultState([List props = const []]);
 
   get applauses => null;
 }
